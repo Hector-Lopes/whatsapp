@@ -1,0 +1,7 @@
+{
+  "name": "zapzap",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
